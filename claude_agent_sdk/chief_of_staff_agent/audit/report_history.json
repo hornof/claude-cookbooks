@@ -31,6 +31,14 @@
       "action": "created",
       "word_count": 1943,
       "tool": "Write"
+    },
+    {
+      "timestamp": "2026-04-19T22:30:40.882749",
+      "file": "restructure-our-engineering-team-cuddly-hanrahan.md",
+      "path": "/Users/lukehornof/.claude/plans/restructure-our-engineering-team-cuddly-hanrahan.md",
+      "action": "created",
+      "word_count": 871,
+      "tool": "Write"
     }
   ]
 }
